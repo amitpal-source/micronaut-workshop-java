@@ -584,7 +584,7 @@ ClubsApi : @Get("/{id}") Club show(Long id)
 ....
 endif::[]
 
-image::clients-diagram.png[]
+image::https://alvarosanchez.github.io/micronaut-workshop-java/images/clients-diagram.png[]
 
 * `ClubsApi` is the interface that contains the client endpoint mappings.
 * `ClubsClient` is the production client, is annotated with `@Client` and simply
