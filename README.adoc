@@ -73,7 +73,7 @@ Fixtures -> Clubs
 ....
 endif::[]
 
-image::football-diagram.png[]
+image::https://alvarosanchez.github.io/micronaut-workshop-java/images/football-diagram.png[]
 
 * `clubs` is the microservice responsible for managing clubs. It uses Hibernate 
   as a data access layer.
