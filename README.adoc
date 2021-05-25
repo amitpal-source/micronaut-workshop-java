@@ -414,7 +414,7 @@ ClubsApi : @Post("/") Club save(@NotNull String name, String stadium)
 ....
 endif::[]
 
-image::clubs-diagram.png[]
+image::https://alvarosanchez.github.io/micronaut-workshop-java/images/clubs-diagram.png[]
 
 icon:hand-o-right[] Create the `ClubsApi` interface, annotating its methods with 
 `io.micronaut.http.annotation.Get` or `io.micronaut.http.annotation.Post` as described in the diagram.
