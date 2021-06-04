@@ -298,7 +298,7 @@ project for more information.
 We will use Gradle to run the tests, however, if you want to run them from your IDE, make
 sure you enable annotation processors. For example, in Intellij IDEA:
 
-image::http://guides.micronaut.io/micronaut-data-access-jpa-hibernate/img/annotationprocessorsintellij.png[]
+image::https://docs.micronaut.io/latest/img/intellij-annotation-processors.png[]
 
 icon:hand-o-right[] Now, change the generated `src/test/java/hello/galaxy/HelloControllerTest.java`
 to look like this:
